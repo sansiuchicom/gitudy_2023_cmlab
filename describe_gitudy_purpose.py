@@ -4,5 +4,7 @@ The purpose of the study is to learn how the git and github works.
 Furthermore, We, as a CMLab members, hope to utilize this colloabrative systems as one of the research tools
 		""")
 
+if __name__ ==__name__:
+	describe_gitudy_purpose()
 
-describe_gitudy_purpose()
+
